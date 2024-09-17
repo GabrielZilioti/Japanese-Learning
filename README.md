@@ -123,3 +123,8 @@ Rest or light practice: You can casually listen to Japanese music, anime, or pod
 - JapanesePod101: For structured lessons and audio dialogues.
 - NHK Easy Japanese: For simple, bite-sized conversation lessons.
 - Jisho.org: For looking up words and kanji.
+
+## Plan for the Advanced Anki Deck:
+- Dakuten and Handakuten: These modify the sounds of certain syllables, changing “k” to “g”, “t” to “d”, etc.
+- Combo Sounds (Yōon): Combined characters like きゃ (kya), しゅ (shu), etc., which produce new sounds.
+- Long Vowels and Double Consonants: Focus on how sounds change when vowels are lengthened (おう, えい) or consonants are doubled (っ).

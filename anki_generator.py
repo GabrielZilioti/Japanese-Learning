@@ -74,7 +74,6 @@ katakana_csv_path = 'katakana_anki.csv'
 hiragana_csv_path = 'hiragana_anki.csv'
 # Filepath to save the Kanji CSV
 kanji_csv_path = 'kanji_anki.csv'
-
 # Filepath to save the advanced sounds CSV
 advanced_sounds_csv_path = 'advanced_japanese_sounds_anki.csv'
 
